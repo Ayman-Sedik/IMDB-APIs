@@ -36,7 +36,7 @@ IMDB API Clone (JWT, Token, Throttling, Pagination, Testing)
 
 2. Watch List
 - api/watch/list/
-- api/watch/"<int:movie_id>"/
+- api/watch/'<int:movie_id>'/
 - api/watch/list2/   (Filter)
 
 3. Stream Platforms
