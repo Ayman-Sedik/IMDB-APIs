@@ -31,7 +31,7 @@ IMDB API Clone (JWT, Token, Throttling, Pagination, Testing)
 **10. Automated API Testing**
 
 ## API URLs
-- **Admin Access**
+**1. Admin Access**
     - /dashboard/
    
 - **Watch List**
