@@ -43,8 +43,13 @@ IMDB API Clone (JWT, Token, Throttling, Pagination, Testing)
    - api/watch/stream/
    - api/watch/stream/\<int:streamplatform_id>/
 
-**3. Reviews**
+**4. Reviews**
    - api/watch/\<int:movie_id>/reviews/ (All reviews for the movie)
    - api/watch/reviews/\<int:review_id>/ (Individual review)
-   - api/watch/reviews/\<int:movie_id>/reviews/create/ 
+   - api/watch/reviews/\<int:movie_id>/reviews/create/
+
+**5. Accounts**
+   - api/account/register/
+   - api/account/login/
+   - api/account/logout/
 
