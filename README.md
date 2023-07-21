@@ -1,6 +1,5 @@
-# IMDB APIs
+# [IMDB APIs](https://www.linkedin.com/feed/update/urn:li:activity:7068960484607033344/)
 IMDB API Clone (JWT, Token, Throttling, Pagination, Testing)
-<p>[Demo video]</p> "https://www.linkedin.com/feed/update/urn:li:activity:7068960484607033344/"
 
 ## Concepts Applied
 **1. API Basics**
