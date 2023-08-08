@@ -1,4 +1,4 @@
-# IMDB APIs - v 1.2.0 Official (Beta version)
+# IMDB APIs Project
 IMDB API Clone (JWT, Token, Throttling, Pagination, Testing).
 ## [Demo video](https://drive.google.com/file/d/1AjX1uctoISiQulcWk3Q-FGWtwdMmgRo1/view?usp=sharing)
 
