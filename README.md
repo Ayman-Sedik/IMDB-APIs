@@ -1,6 +1,6 @@
 # IMDB APIs Project
 IMDB API Clone (JWT, Token, Throttling, Pagination, Testing).
-## [Demo video](https://drive.google.com/file/d/1AjX1uctoISiQulcWk3Q-FGWtwdMmgRo1/view?usp=sharing)
+## [Demo video](https://drive.google.com/file/d/13cdXe5tZ9KXccp7ceeyn9t01apINBbyb/view?usp=sharing)
 
 ## Concepts Applied
 **1. API Basics**
